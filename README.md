@@ -6,7 +6,7 @@ Coolpad-V1 is a macropad for [Blueprint](https://blueprint.hackclub.com) by [Hac
 
 It has a clean 6-key (2x3) layout powered by Seeed Studio XIAO-RP2040 with CircuitPython firmware. It includes a rotary encoder and 0.91" OLED display in a minimalist white box-like case.
 
-This is my first hardware based project so I was kind of clueless half of the time, Shoutout to Hack Club's Slack for all the help!
+This is my first hardware based project so I was kind of clueless half of the time but Shoutout to Hack Club Slack for all the help!
 
 ## Features
 - 6 Keys in 2x3 matrix layout
@@ -19,7 +19,7 @@ This is my first hardware based project so I was kind of clueless half of the ti
 - Custom Firmware & App (WIP)
 
 ## Challenges
-I had no idea how to use KiCad or Fusion 360 so I had to learn both of them. I also had a lot of trouble with fitting the parts and I had to start twice!
+I had no idea how to use KiCad or Fusion 360 so I had to learn both of them. I also had a lot of trouble with fitting the parts to my case and I had to start over twice!
 
 ## CAD
 ### How it Works
